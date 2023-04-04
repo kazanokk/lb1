@@ -2,6 +2,8 @@
 ## Варіант 3
 > ## Реалізований код 
 >> ## https://kazanokk.github.io/lb1/ 
+Результат в https://validator.w3.org/:<br/>
+![image](https://user-images.githubusercontent.com/129610483/229863463-1d9bd4e4-3302-42b7-80c4-17e6576c5be5.png)<br/>
 Завдання 1 :<br/>
 ![image](https://user-images.githubusercontent.com/129610483/229354948-916e8b77-6768-409e-bb12-e40bc7ebd0b5.png)<br/>
 Завдання 2:<br/>
